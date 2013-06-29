@@ -2,9 +2,9 @@
 
 /**
  * 
- * @author Jeffrey Stonem <Jeffrey.Stonem@gmail.com>
+ * @author Joe Duncan <j.duncan@outlook.com>
  * @package imgauth
- * @copyright 2012 Jeffrey Stonem
+ * @copyright 2012 Joe DUncan
  * Use as pleased, "don't care license"
  */
  
