@@ -7,10 +7,12 @@ Shows a WWW-Authenticate message on embedded image and saves user credentials to
 Example: 
 
 
+<pre>
 
 require_once('imgauth.lib.php');
 
 $auth = new imgauth;
+
 
 //log user credentials
 $auth->enable_log = true;
@@ -23,3 +25,5 @@ $auth->disable_pattern = "/^192\.168\.178.+$/";
 
 //execute
 $auth->exec();
+
+</pre>
